@@ -14,5 +14,5 @@ https://docs.ultralytics.com/zh/models/yolo26/
 ### YOLO 使用 OpenVINO 官方文档
 https://docs.ultralytics.com/zh/integrations/openvino/#inference-with-openvino-runtime
 
-## Team Docs 用于指导团队规范协作
+### Team Docs 用于指导团队规范协作
 - [Team Development Guide](docs/team_development_guide.md)
